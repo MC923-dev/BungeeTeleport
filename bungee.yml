@@ -1,0 +1,6 @@
+name: BungeeTeleport
+version: 1.0
+main: bungeeteleport.BungeeTeleport
+
+author: mc923
+description: Plugin created to shorten commands for teleports between BungeeCord servers
